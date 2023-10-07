@@ -1,0 +1,27 @@
+body {
+  background-image: url("BG.JPG");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 0 auto;
+  width: 80%;
+  max-width: 800px;
+  margin-top: 3rem;
+  border: 3px solid black;
+}
+
+main {
+  background-color: black;
+}
+
+footer,
+header {
+  text-align: center;
+  padding: 30px;
+  font-size: large;
+  background-color: black;
+  color: white;
+}
+
+table {
+  margin-top: 1rem;
+}
